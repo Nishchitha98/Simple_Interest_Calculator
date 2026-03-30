@@ -44,13 +44,16 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/simple-interest-calculator.git
+   git clone https://github.com/Nishchitha98/Simple_Interest_Calculator.git
 
 2. Open the project folder
 
 3. Run the project:
 
    * Open `index.html` in your browser
+
+## Project deployed here 
+https://nishchitha98.github.io/Simple_Interest_Calculator/
 
 ## Validation
 
