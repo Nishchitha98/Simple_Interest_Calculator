@@ -23,9 +23,13 @@ A clean and user-friendly **Simple Interest Calculator** built using **HTML, CSS
 ## Project Structure
 
 Simple-Interest-Calculator/
+
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── README.md
 
 ## Preview
